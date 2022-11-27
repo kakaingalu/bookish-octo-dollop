@@ -5,8 +5,7 @@ Below are exercise files from variuos challenge questions
 
 ## Table of contents
 File | Description
-_____|__________
-
+-----|------------
 [print_line.c](./print_line.c) | a program that draws a straight line in the terminal.
 
 
